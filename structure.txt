@@ -1,0 +1,8 @@
+<!-- Laravel Project Structure -->
+app/
+database/
+resources/
+routes/
+config/
+storage/
+public/
